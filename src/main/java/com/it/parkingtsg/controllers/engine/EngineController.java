@@ -2,7 +2,7 @@ package com.it.parkingtsg.controllers.engine;
 
 import com.it.parkingtsg.entities.EngineType;
 import com.it.parkingtsg.exceptions.ApplicationException;
-import com.it.parkingtsg.services.EngineTypeServices;
+import com.it.parkingtsg.services.engine.EngineTypeServices;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
