@@ -1,0 +1,13 @@
+package com.it.parkingtsg;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ParkingtsgApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
